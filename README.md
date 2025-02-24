@@ -26,6 +26,6 @@
    git clone https://github.com/maryoxd/ArcheryGame.git  
    cd ArcheryGame
 2. **Compile and run the game:**
-  ```bash
-  g++ -o archery_game main.cpp Player.cpp Sip.cpp  
-  ./archery_game  
+   ```bash
+   g++ -o archery_game main.cpp Player.cpp Sip.cpp  
+   ./archery_game  
